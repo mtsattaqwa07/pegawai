@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Calistoga&family=Dancing+Script:wght@400;500;700&family=Poppins:ital,wght@0,300;0,700;1,300&family=Rampart+One&family=Roboto+Slab:wght@200;400;700&family=Tourney&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+a {
+    color: white;
+}
+b {
+    color: white;
+}
+
+a:hover {
+    font-weight: 600;
+}
